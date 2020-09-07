@@ -22,7 +22,7 @@
 
 <br />
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Photoshop tutorials Youtube Videos 
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
