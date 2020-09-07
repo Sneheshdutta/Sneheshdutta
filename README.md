@@ -25,6 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to use Clipping Mask in Photoshop CC | Clipping Mask Full Tutorial](https://www.youtube.com/watch?v=jSj85qPcohE)
+- [Filters in Photoshop | how to use filters in Photoshop Full Tutorial | All Filters Explained](https://www.youtube.com/watch?v=27883vFmrho)
+- [Linkedin Photoshop Assessment Answers 2020 | Adobe Photoshop Linkedin Assessment Answers [PASSED X2]](https://www.youtube.com/watch?v=3TLGPOWE5SA)
+- [Independence Day Photo Montage with Photoshop | Speed Art](https://www.youtube.com/watch?v=RBMA81PrNpk)
+- [How to Add Flag on your Dress in Photoshop | Independence Day Special](https://www.youtube.com/watch?v=cBqJshR5PKs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
