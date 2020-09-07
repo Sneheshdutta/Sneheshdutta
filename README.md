@@ -34,6 +34,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Snehesh's github stats](https://github-readme-stats.vercel.app/api?username=Sneheshdutta&count_private=true&show_icons=true)](https://github.com/sneheshdutta/github-readme-stats)
+
 [website]: https://gadgetguys.in
 [website1]: https://www.scikn.in
 [twitter]: https://twitter.com/sneheshdutta
