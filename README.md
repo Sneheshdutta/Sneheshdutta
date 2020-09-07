@@ -39,6 +39,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+- [What is Conflict Management](https://www.scikn.in/2020/08/what-is-conflict-management.html)
+- [Rich Dad Poor Dad story Short Summary](https://www.scikn.in/2020/05/rich-dad-poor-dad-short-summary.html)
+- [Fight Against coronavirus COVID 19](https://www.scikn.in/2020/05/Fight-against-coronavirus-COVID19.html)
+- [What is 80 20 rule or Pareto principle](https://www.scikn.in/2020/02/What-is-80-20-rule.html)
+- [Leadership vs Management Characteristics](https://www.scikn.in/2020/03/leadership-vs-management.html)
+
 ---
 
 [![Snehesh's github stats](https://github-readme-stats.vercel.app/api?username=Sneheshdutta&count_private=true&show_icons=true)](https://github.com/Sneheshdutta/Sneheshdutta)
