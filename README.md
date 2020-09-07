@@ -41,7 +41,9 @@
 
 ---
 
-[![Snehesh's github stats](https://github-readme-stats.vercel.app/api?username=Sneheshdutta&count_private=true&show_icons=true)](https://github.com/sneheshdutta/github-readme-stats)
+[![Snehesh's github stats](https://github-readme-stats.vercel.app/api?username=Sneheshdutta&count_private=true&show_icons=true)](https://github.com/Sneheshdutta/Sneheshdutta)
+[![Mostly used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneheshdutta)](https://github.com/Sneheshdutta/Sneheshdutta)
+
 
 [website]: https://gadgetguys.in
 [website1]: https://www.scikn.in
