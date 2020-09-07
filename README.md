@@ -8,8 +8,8 @@
 - 💼 I’m currently working on a tutorial of [Photoshop CC for beginners][photoshop]!
 - 📚 I’m currently learning Machine Learning 🤖
 - 👯 I’m looking to collaborate with other developers 🤩
-- 🥅 2020 Goals: Complete 1000 subs in my [youtube channel][youtube] 😅
-- ⚡ Fun fact: I love to play games & write blogs.
+- ▶️ 2020 Goals: Complete 1000 subs in my [youtube channel][youtube] 😅
+- 🤓 Fun fact: I love to play games & write blogs.
 
 ### I will be very happy 😀 if you Connect with me:
 
