@@ -1,6 +1,7 @@
 ### Hi there👋, myself Snehesh Dutta from [gadgetguys.in][website] , thanks for visiting my profile.
 
 [![Website](https://img.shields.io/website?label=gadgetguys.in&style=for-the-badge&url=https%3A%2F%2Fgadgetguys.in)](https://gadgetguys.in)
+[![Website1](https://img.shields.io/website?label=www.scikn.in&style=for-the-badge&url=https%3A%2F%2Fwww.scikn.in)](https://www.scikn.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sneheshdutta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSneheshdutta&screen_name=Sneheshdutta)
 
 ## I'm a student, content creator, graphics designer & developer!
@@ -22,6 +23,7 @@
 <br />
 
 [website]: https://gadgetguys.in
+[website1]: https://www.scikn.in
 [twitter]: https://twitter.com/sneheshdutta
 [youtube]: https://youtube.com/duttastudio
 [youtube1]: https://youtube.com/gadgetguys
