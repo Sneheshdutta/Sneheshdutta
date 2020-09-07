@@ -22,6 +22,18 @@
 
 <br />
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/duttastudio)
+
+### 📕 Latest Blog Posts from www.scikn.in
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://gadgetguys.in
 [website1]: https://www.scikn.in
 [twitter]: https://twitter.com/sneheshdutta
