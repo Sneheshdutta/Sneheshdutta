@@ -37,6 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [SIX  SIGMA in Management](http://feedproxy.google.com/~r/Scikn/~3/Jh226C4fuzQ/six-sigma-in-management.html)
+- [What is Conflict Management](http://feedproxy.google.com/~r/Scikn/~3/2-ROPo0RipU/what-is-conflict-management.html)
+- [What is Motivation & Elements of Motivation](http://feedproxy.google.com/~r/Scikn/~3/rYLHNdcxkMQ/What-is-Motivation.html)
+- [Ratio Analysis in Principle of Management](http://feedproxy.google.com/~r/Scikn/~3/-ZrZ-XTOnO8/ratio-analysis-in-principle-of.html)
+- [Quick Review of intelligent investor in 2 Minutes](http://feedproxy.google.com/~r/Scikn/~3/Uw4pQfgEySU/quick-review-of-intelligent-investor-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 - [What is Conflict Management](https://www.scikn.in/2020/08/what-is-conflict-management.html)
