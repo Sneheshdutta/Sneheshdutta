@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.blogger.com/feeds/1717999434721146516/posts/default"
+          feed_list: "http://feeds.feedburner.com/Scikn"
