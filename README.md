@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [How to reply a client if he did not receive his order within the estimated date](http://feedproxy.google.com/~r/Scikn/~3/SWAsWSA9np8/how-to-reply-client-if-he-did-not.html)
 - [SIX  SIGMA in Management](http://feedproxy.google.com/~r/Scikn/~3/Jh226C4fuzQ/six-sigma-in-management.html)
 - [What is Conflict Management](http://feedproxy.google.com/~r/Scikn/~3/2-ROPo0RipU/what-is-conflict-management.html)
 - [What is Motivation & Elements of Motivation](http://feedproxy.google.com/~r/Scikn/~3/rYLHNdcxkMQ/What-is-Motivation.html)
 - [Ratio Analysis in Principle of Management](http://feedproxy.google.com/~r/Scikn/~3/-ZrZ-XTOnO8/ratio-analysis-in-principle-of.html)
-- [Quick Review of intelligent investor in 2 Minutes](http://feedproxy.google.com/~r/Scikn/~3/Uw4pQfgEySU/quick-review-of-intelligent-investor-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
