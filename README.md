@@ -38,10 +38,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How Azure Chooses Big Bucket Regions](http://feedproxy.google.com/~r/Scikn/~3/Vb9a5_ET-hU/how-azure-chooses-big-bucket-regions.html)
-- [How to reply a client if he did not receive his order within the estimated date](http://feedproxy.google.com/~r/Scikn/~3/SWAsWSA9np8/how-to-reply-client-if-he-did-not.html)
 - [What is Conflict Management](http://feedproxy.google.com/~r/Scikn/~3/2-ROPo0RipU/what-is-conflict-management.html)
-- [Ratio Analysis in Principle of Management](http://feedproxy.google.com/~r/Scikn/~3/-ZrZ-XTOnO8/ratio-analysis-in-principle-of.html)
-- [What is Total Quality Management](http://feedproxy.google.com/~r/Scikn/~3/ghSeVZTfATA/what-is-total-quality-management.html)
+- [logistics and supply chain management](http://feedproxy.google.com/~r/Scikn/~3/ONqxJrlYNi0/logistics-and-supply-chain-management.html)
+- [Introduction and Importance of Graphics Designing](http://feedproxy.google.com/~r/Scikn/~3/VOwgnZwxsVk/Introduction-and-Importance-of-Graphics-Designing.html)
+- [Importance of training and development in an organization](http://feedproxy.google.com/~r/Scikn/~3/9QssBoJEmv0/importance-of-training-and-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
