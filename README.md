@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Block diagram of solar lighting system](http://feedproxy.google.com/~r/Scikn/~3/B5YnrgjReSE/block-diagram-of-solar-lighting-system.html)
 - [Network potential in project management](http://feedproxy.google.com/~r/Scikn/~3/X4yWzoqWCho/network-potential-in-project-management.html)
 - [What is Conflict Management](http://feedproxy.google.com/~r/Scikn/~3/2-ROPo0RipU/what-is-conflict-management.html)
 - [logistics and supply chain management](http://feedproxy.google.com/~r/Scikn/~3/ONqxJrlYNi0/logistics-and-supply-chain-management.html)
 - [Introduction and Importance of Graphics Designing](http://feedproxy.google.com/~r/Scikn/~3/VOwgnZwxsVk/Introduction-and-Importance-of-Graphics-Designing.html)
-- [Importance of training and development in an organization](http://feedproxy.google.com/~r/Scikn/~3/9QssBoJEmv0/importance-of-training-and-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
