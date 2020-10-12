@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to stretch any image in different ways in Photoshop](https://www.youtube.com/watch?v=ZYdBpV6uzes)
 - [How to Change Colour Image to Black and White Image in Photoshop](https://www.youtube.com/watch?v=HIqw8dq7hKU)
 - [How to Reduce Image Size without Losing Quality in Photoshop | How to save image in a low size](https://www.youtube.com/watch?v=p_lVqNw5NcE)
 - [How to show PSD thumbnail in windows 10 File Explorer | 32 bit & 64 bit](https://www.youtube.com/watch?v=qiuPTy2E9kk)
 - [How to use Clipping Mask in Photoshop CC | Clipping Mask Full Tutorial](https://www.youtube.com/watch?v=jSj85qPcohE)
-- [Filters Option in Photoshop | how to use filters in Photoshop Full Tutorial | All Filters Explained](https://www.youtube.com/watch?v=27883vFmrho)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
