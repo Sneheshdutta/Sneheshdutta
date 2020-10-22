@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
-- [PUBG Mobile Vikindi Map](http://feedproxy.google.com/~r/Scikn/~3/iqSAsDOl2tY/pubg-mobile-vikindi-map.html)
 - [How to Handel a Situation if Your Team Member is not Working](http://feedproxy.google.com/~r/Scikn/~3/0jY-bJ8WyGI/how-to-handel-situation-if-your-team.html)
 - [What is Network Problem or No Network](http://feedproxy.google.com/~r/Scikn/~3/P3Fdriw0hxU/what-is-network-problem-or-no-network.html)
 - [Block diagram of solar lighting system](http://feedproxy.google.com/~r/Scikn/~3/B5YnrgjReSE/block-diagram-of-solar-lighting-system.html)
 - [Network potential in project management](http://feedproxy.google.com/~r/Scikn/~3/X4yWzoqWCho/network-potential-in-project-management.html)
+- [What is Conflict Management](http://feedproxy.google.com/~r/Scikn/~3/2-ROPo0RipU/what-is-conflict-management.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
