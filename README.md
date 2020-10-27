@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to Select Subject with PEN Tool in Photoshop](https://www.youtube.com/watch?v=5kdSWeqa2vo)
 - [How to Place an Image Inside any Shapes](https://www.youtube.com/watch?v=x8NM44P8SpQ)
 - [How to stretch any image in different ways in Photoshop](https://www.youtube.com/watch?v=ZYdBpV6uzes)
 - [How to Change Colour Image to Black and White Image in Photoshop](https://www.youtube.com/watch?v=HIqw8dq7hKU)
 - [How to Reduce Image Size without Losing Quality in Photoshop | How to save image in a low size](https://www.youtube.com/watch?v=p_lVqNw5NcE)
-- [How to show PSD thumbnail in windows 10 File Explorer | 32 bit & 64 bit](https://www.youtube.com/watch?v=qiuPTy2E9kk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
