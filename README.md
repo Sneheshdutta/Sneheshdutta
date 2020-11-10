@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Who are Managers and Types of Managers](http://feedproxy.google.com/~r/Scikn/~3/ilxk7_w1VdU/who-are-managers-and-types-of-managers.html)
 - [Difference between traditional organisation and modern organisation](http://feedproxy.google.com/~r/Scikn/~3/KoG7fRhgOAU/Difference-between-traditional-organisation-and-modern-organisation.html)
 - [Msp430 Timer Block Diagram and Explain](http://feedproxy.google.com/~r/Scikn/~3/e_pmgaOrubE/msp430-timer-block-diagram-and-explain.html)
 - [Why all Pendrives physical size are same](http://feedproxy.google.com/~r/Scikn/~3/Ksdh_JAiM4U/why-all-pendrives-physical-size-are-same.html)
 - [How to Handel a Situation if Your Team Member is not Working](http://feedproxy.google.com/~r/Scikn/~3/0jY-bJ8WyGI/how-to-handel-situation-if-your-team.html)
-- [What is Network Problem or No Network](http://feedproxy.google.com/~r/Scikn/~3/P3Fdriw0hxU/what-is-network-problem-or-no-network.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
