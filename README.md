@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Good Preparation Habits to become more Productive](http://feedproxy.google.com/~r/Scikn/~3/Zk4yTde6u2c/good-preparation-habits-to-become-more-Productive.html)
 - [span of supervision in management](http://feedproxy.google.com/~r/Scikn/~3/y2d7Y9HZkjw/span-of-supervision.html)
 - [Four main Functions of a Manager in Organization](http://feedproxy.google.com/~r/Scikn/~3/LG3xlaG6o4E/four-main-functions-of-manager.html)
 - [Who are Managers and Types of Managers](http://feedproxy.google.com/~r/Scikn/~3/ilxk7_w1VdU/who-are-managers-and-types-of-managers.html)
 - [Difference between traditional organisation and modern organisation](http://feedproxy.google.com/~r/Scikn/~3/KoG7fRhgOAU/Difference-between-traditional-organisation-and-modern-organisation.html)
-- [Msp430 Timer Block Diagram and Explain](http://feedproxy.google.com/~r/Scikn/~3/e_pmgaOrubE/msp430-timer-block-diagram-and-explain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
