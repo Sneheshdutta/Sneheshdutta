@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [How many inbuilt lights are there in Arduino UNO](http://feedproxy.google.com/~r/Scikn/~3/N_bWIkSdIpc/how-many-inbuilt-lights-are-in-arduinouno.html)
 - [Story Book or Cartoon Which is better](http://feedproxy.google.com/~r/Scikn/~3/-iXbifetrQ4/story-book-or-cartoon-which-is-better.html)
 - [Total number of Analog pin in Arduino](http://feedproxy.google.com/~r/Scikn/~3/mFAmM8ZVaTo/total-number-of-analog-pin-in-arduino.html)
 - [Good Preparation Habits to become more Productive](http://feedproxy.google.com/~r/Scikn/~3/Zk4yTde6u2c/good-preparation-habits-to-become-more-Productive.html)
 - [span of supervision in management](http://feedproxy.google.com/~r/Scikn/~3/y2d7Y9HZkjw/span-of-supervision.html)
-- [Four main Functions of a Manager in Organization](http://feedproxy.google.com/~r/Scikn/~3/LG3xlaG6o4E/four-main-functions-of-manager.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
