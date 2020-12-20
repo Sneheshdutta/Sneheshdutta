@@ -6,7 +6,7 @@
 
 ## I'm a student, content creator, graphics designer & developer!
 
-- 💼 I’m currently working on a tutorial of [Photoshop CC for beginners][photoshop]!
+- 💼 I’m currently working on a android game development. Wish megood luck 
 - 📚 I’m currently learning Machine Learning 🤖
 - 👯 I’m looking to collaborate with other developers 🤩
 - ▶️ 2020 Goals: Complete 1000 subs in my [youtube channel][youtube] 😅
