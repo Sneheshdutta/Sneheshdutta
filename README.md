@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Features of electronic voting machine using Arduino](http://feedproxy.google.com/~r/Scikn/~3/SxPuUJrfkp8/features-of-electronic-voting-machine.html)
 - [Smart work and Time Management in Classroom for Students](http://feedproxy.google.com/~r/Scikn/~3/vm3hcvlXPok/smart-work-and-time-management-in-classroom.html)
 - [Why Digital pin 0 and 1 of Arduino UNO should be Avoided](http://feedproxy.google.com/~r/Scikn/~3/5lm_zD3TE0c/why-digital-pin-0-and-1-should-avoided.html)
 - [Story Book or Cartoon Which is better](http://feedproxy.google.com/~r/Scikn/~3/-iXbifetrQ4/story-book-or-cartoon-which-is-better.html)
 - [Total number of Analog pin in Arduino](http://feedproxy.google.com/~r/Scikn/~3/mFAmM8ZVaTo/total-number-of-analog-pin-in-arduino.html)
-- [How many inbuilt lights are there in Arduino UNO](http://feedproxy.google.com/~r/Scikn/~3/N_bWIkSdIpc/how-many-inbuilt-lights-are-in-arduinouno.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
