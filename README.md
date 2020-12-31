@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Ultimate tutorial to create YouTube thumbnail in Photoshop](https://www.youtube.com/watch?v=IZke4zjsXqc)
 - [How to Make a photo collage by creating a template Step by step in depth Hindi Tutorial in Photoshop](https://www.youtube.com/watch?v=gErsVrdwdQI)
 - [How to Update and Install Adobe Photoshop CC 2021 Letest Version](https://www.youtube.com/watch?v=0ZRdUV7RkmY)
 - [how to add watermark to multiple photos at a time in Photoshop CC 2021](https://www.youtube.com/watch?v=O9wJp2HZyh4)
 - [Multiply and Screen Blending Modes in Photoshop in Hindi](https://www.youtube.com/watch?v=EEXyhHXp9CQ)
-- [How to Select Subject with PEN Tool in Photoshop](https://www.youtube.com/watch?v=5kdSWeqa2vo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
