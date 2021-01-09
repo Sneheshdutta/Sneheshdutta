@@ -37,7 +37,7 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
-- [What can be used instead of LDR or What is an alternative for a LDR?](http://feedproxy.google.com/~r/Scikn/~3/q3c1yGtUcZo/what-can-be-used-instead-of-ldr-or-what.html)
+- [What can be used instead of LDR or What is an alternative of LDR?](http://feedproxy.google.com/~r/Scikn/~3/Zu6JV3ELm7k/What-is-an-alternative-of-LDR.html)
 - [Features of electronic voting machine using Arduino](http://feedproxy.google.com/~r/Scikn/~3/FdpxZDj0DI4/features-of-electronic-voting-machine-using-arduino.html)
 - [Smart work and Time Management in Classroom for Students](http://feedproxy.google.com/~r/Scikn/~3/vm3hcvlXPok/smart-work-and-time-management-in-classroom.html)
 - [Why Digital pin 0 and 1 of Arduino UNO should be Avoided](http://feedproxy.google.com/~r/Scikn/~3/5lm_zD3TE0c/why-digital-pin-0-and-1-should-avoided.html)
