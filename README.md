@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [3D Popup Photo Effect in Photoshop with Action | How to Create 3D Pop Out Photo effect in Photoshop](https://www.youtube.com/watch?v=CvySaQ7YT0A)
 - [How to make YouTube Thumbnail Using Canva in Hindi](https://www.youtube.com/watch?v=JWePM0kRXYQ)
 - [Canva Complete Tutorial in Hindi Everything Explained in Hindi](https://www.youtube.com/watch?v=iZqypYe2qiw)
 - [Zebronics Transformer M Mouse Full Review and Unboxing Best Budget mouse for Designers](https://www.youtube.com/watch?v=WB2jAw1SFss)
 - [Ultimate tutorial to create YouTube thumbnail in Photoshop](https://www.youtube.com/watch?v=IZke4zjsXqc)
-- [How to Make a photo collage by creating a template Step by step in depth Hindi Tutorial in Photoshop](https://www.youtube.com/watch?v=gErsVrdwdQI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
