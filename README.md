@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Paper boat floating ⛵ Cinematography ( Ft. Cold by NEFFEX ) #shorts #1minvideo](https://www.youtube.com/watch?v=sRDAvDMqRME)
 - [Free India 🇮🇳#shorts #independanceday](https://www.youtube.com/watch?v=NTw39EyJK0U)
 - [500 Subscribers Completed Thank you everyone 🔥🔥 #shorts](https://www.youtube.com/watch?v=7NWqPYrElwY)
 - [3D Popup Photo Effect in Photoshop with Action | How to Create 3D Pop Out Photo effect in Photoshop](https://www.youtube.com/watch?v=CvySaQ7YT0A)
 - [How to make YouTube Thumbnail Using Canva in Hindi](https://www.youtube.com/watch?v=JWePM0kRXYQ)
-- [Canva Complete Tutorial in Hindi Everything Explained in Hindi](https://www.youtube.com/watch?v=iZqypYe2qiw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
