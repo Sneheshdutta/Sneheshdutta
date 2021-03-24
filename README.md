@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [160+ PUBG mascot logo pack](http://feedproxy.google.com/~r/Scikn/~3/kvOIQTv2Ueg/160-pubg-mascot-logo-pack.html)
 - [Essay on Fight Against coronavirus COVID 19](http://feedproxy.google.com/~r/Scikn/~3/-yimsiLyB3Y/essay-on-fight-against-coronavirus.html)
 - [Difference between features and functions](http://feedproxy.google.com/~r/Scikn/~3/Jq4g7FZDA10/difference-between-features-and-functions.html)
 - [Which is better mediatek Helio G70 vs Helio G35](http://feedproxy.google.com/~r/Scikn/~3/7Qgh_BIcst0/mediatek-Helio-G70-vs-Helio-G35.html)
 - [What can be used instead of LDR or What is an alternative of LDR?](http://feedproxy.google.com/~r/Scikn/~3/Zu6JV3ELm7k/What-is-an-alternative-of-LDR.html)
-- [Features of electronic voting machine using Arduino](http://feedproxy.google.com/~r/Scikn/~3/FdpxZDj0DI4/features-of-electronic-voting-machine-using-arduino.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
