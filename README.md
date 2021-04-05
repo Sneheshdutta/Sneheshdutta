@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [Preparation of timetable for good eating habit](http://feedproxy.google.com/~r/Scikn/~3/j3BDLr7kdVg/preparation-of-timetable-for-eating.html)
 - [Areas influenced by Machine Learning](http://feedproxy.google.com/~r/Scikn/~3/JvGJY14tlsI/areas-influenced-by-machine-learning.html)
 - [5 websites to download PUBG mascot logos](http://feedproxy.google.com/~r/Scikn/~3/cMJ1tyT8pck/5-websites-to-download-pubg-mascot-logos.html)
 - [160+ PUBG mascot logo pack](http://feedproxy.google.com/~r/Scikn/~3/kvOIQTv2Ueg/160-pubg-mascot-logo-pack.html)
 - [Essay on Fight Against coronavirus COVID 19](http://feedproxy.google.com/~r/Scikn/~3/-yimsiLyB3Y/essay-on-fight-against-coronavirus.html)
-- [Difference between features and functions](http://feedproxy.google.com/~r/Scikn/~3/Jq4g7FZDA10/difference-between-features-and-functions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
