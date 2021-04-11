@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to reset Photoshop Setting to default and delete all changes in #photoshop](https://www.youtube.com/watch?v=37zQpdOaYfY)
 - [Unboxing Fujifilm XT200 Mirrorless Camera #shorts #fujifilm #1minshorts](https://www.youtube.com/watch?v=ciYgZ7VEjkI)
 - [Beautiful Rain and boat Cinematography  #shorts #shortvideos](https://www.youtube.com/watch?v=b17s9anAY5g)
 - [Paper boat floating ⛵ Cinematography ( Ft. Cold by NEFFEX ) #shorts  #shortvideo #1minvideo](https://www.youtube.com/watch?v=sRDAvDMqRME)
 - [Free India 🇮🇳 #1minshorts #shortsvideo #30minshorts](https://www.youtube.com/watch?v=NTw39EyJK0U)
-- [500 Subscribers Completed Thank you everyone 🔥🔥 #shorts](https://www.youtube.com/watch?v=7NWqPYrElwY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
