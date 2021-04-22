@@ -26,7 +26,7 @@
 
 <!-- YOUTUBE:START -->
 - [How to create Sliced text effect in photoshop in Hindi](https://www.youtube.com/watch?v=tPOgRYPsSxQ)
-- [How to reset Photoshop Setting to default and delete all changes in #photoshop](https://www.youtube.com/watch?v=37zQpdOaYfY)
+- [How to reset Photoshop Setting to default and delete all changes in #shorts #photoshop](https://www.youtube.com/watch?v=37zQpdOaYfY)
 - [Unboxing Fujifilm XT200 Mirrorless Camera #shorts #fujifilm #1minshorts](https://www.youtube.com/watch?v=ciYgZ7VEjkI)
 - [Beautiful Rain and boat Cinematography  #shorts #shortvideos](https://www.youtube.com/watch?v=b17s9anAY5g)
 - [Paper boat floating ⛵ Cinematography ( Ft. Cold by NEFFEX ) #shorts  #shortvideo #1minvideo](https://www.youtube.com/watch?v=sRDAvDMqRME)
