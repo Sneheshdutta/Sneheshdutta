@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Fujifilm XT200 Touch Focus in the touchscreen display #shorts #fujifilm #1minshorts](https://www.youtube.com/watch?v=yFOx9V3Ct6A)
 - [How to use COLOR RANGE in Photoshop | Remove Complex Background in Photoshop](https://www.youtube.com/watch?v=8EfS0daIbdA)
 - [How to create Sliced text effect in photoshop in Hindi](https://www.youtube.com/watch?v=tPOgRYPsSxQ)
 - [How to reset Photoshop Setting to default and delete all changes in #shorts #photoshop](https://www.youtube.com/watch?v=37zQpdOaYfY)
 - [Unboxing Fujifilm XT200 Mirrorless Camera #shorts #fujifilm #1minshorts](https://www.youtube.com/watch?v=ciYgZ7VEjkI)
-- [Beautiful Rain and boat Cinematography  #shorts #shortvideos](https://www.youtube.com/watch?v=b17s9anAY5g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
