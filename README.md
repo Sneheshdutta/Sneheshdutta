@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Shoot Overhead Videos at Home #short #videoshoot #1minshort](https://www.youtube.com/watch?v=oB0iSeN1QVg)
 - [Photoshop Vector Action How to create vector in Photoshop using Action | Make Vector Action](https://www.youtube.com/watch?v=xK5PhLKFbJE)
 - [#71 Fujifilm Photo Click and Shutter Sound #short #shortvideo #youtubeshort #firstshortvideo](https://www.youtube.com/watch?v=XEdyyHk-0tU)
 - [#70 Fujifilm Mirrorless Lens Zooming Mechanism #short #shortvideo #youtubeshort #firstshortvideo](https://www.youtube.com/watch?v=07qEsqaN2A4)
 - [Fujifilm XT200 Touch Focus in the touchscreen display #shorts #youtubeshorts #1minshorts](https://www.youtube.com/watch?v=yFOx9V3Ct6A)
-- [Remove Complex Background in Photoshop | How to use COLOR RANGE in #Photoshop](https://www.youtube.com/watch?v=8EfS0daIbdA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
