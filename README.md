@@ -25,7 +25,7 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
-- [Shoot Overhead Videos at Home #short #videoshoot #1minshort](https://www.youtube.com/watch?v=oB0iSeN1QVg)
+- [Shoot Overhead Videos at Home #short #shortvideo #youtubeshort #firstshortvideo](https://www.youtube.com/watch?v=oB0iSeN1QVg)
 - [Photoshop Vector Action How to create vector in Photoshop using Action | Make Vector Action](https://www.youtube.com/watch?v=xK5PhLKFbJE)
 - [#71 Fujifilm Photo Click and Shutter Sound #short #shortvideo #youtubeshort #firstshortvideo](https://www.youtube.com/watch?v=XEdyyHk-0tU)
 - [#70 Fujifilm Mirrorless Lens Zooming Mechanism #short #shortvideo #youtubeshort #firstshortvideo](https://www.youtube.com/watch?v=07qEsqaN2A4)
