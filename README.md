@@ -25,7 +25,7 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
-- [Things you need to know to create Photo Manipulation | How to create Photo Manipulation](https://www.youtube.com/watch?v=CujQowAJj4w)
+- [What things you need to know to create Photo Manipulation | How to create Photo Manipulation](https://www.youtube.com/watch?v=CujQowAJj4w)
 - [Difference between Photoshop CC and CS6 Version Full Story Explained | Full Photoshop History](https://www.youtube.com/watch?v=twpxwxIkpt8)
 - [Inventory Management System Logo Design in Photoshop](https://www.youtube.com/watch?v=pMO4u7kQVOA)
 - [Shoot Overhead Videos at Home #short #shortvideo #youtubeshort #firstshortvideo](https://www.youtube.com/watch?v=oB0iSeN1QVg)
