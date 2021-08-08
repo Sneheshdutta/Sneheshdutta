@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Difference between Adobe Xd vs Figma in My Experience  | What a Beginner should choose](https://www.youtube.com/watch?v=ldxzJnKfA14)
 - [What things you need to know to create Photo Manipulation | How to create Photo Manipulation](https://www.youtube.com/watch?v=CujQowAJj4w)
 - [Difference between Photoshop CC and CS6 Version Full Story Explained | Full Photoshop History](https://www.youtube.com/watch?v=twpxwxIkpt8)
 - [Inventory Management System Logo Design in Photoshop](https://www.youtube.com/watch?v=pMO4u7kQVOA)
 - [Shoot Overhead Videos at Home #short #shortvideo #youtubeshort #firstshortvideo](https://www.youtube.com/watch?v=oB0iSeN1QVg)
-- [Photoshop Vector Action How to create vector in Photoshop using Action | Make Vector Action](https://www.youtube.com/watch?v=xK5PhLKFbJE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
