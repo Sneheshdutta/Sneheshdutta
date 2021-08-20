@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Photoshop Marquee Selection Tools All Explained](https://www.youtube.com/watch?v=6DPSv8Xuz7Q)
 - [Photoshop Move Tool each and every properties Explained](https://www.youtube.com/watch?v=fE74Oo7bYCo)
 - [Photoshop Basic Layout workspace settings and Change interface Colour](https://www.youtube.com/watch?v=8iYXPEzQrug)
 - [Eyedropper Tool in Photoshop Full Tutorial in Hindi](https://www.youtube.com/watch?v=HP360HlyoAg)
 - [Difference between Adobe Xd vs Figma in My Experience  | What a Beginner should choose](https://www.youtube.com/watch?v=ldxzJnKfA14)
-- [What things you need to know to create Photo Manipulation | How to create Photo Manipulation](https://www.youtube.com/watch?v=CujQowAJj4w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
