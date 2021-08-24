@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Photoshop All Crop Tools Explained Crop Tool perspective Tool Slice Tool Slice Selection Tool](https://www.youtube.com/watch?v=gPvniPMLEnE)
 - [Photoshop Marquee Selection Tools All Explained](https://www.youtube.com/watch?v=6DPSv8Xuz7Q)
 - [Photoshop Move Tool each and every properties Explained](https://www.youtube.com/watch?v=fE74Oo7bYCo)
 - [Photoshop Basic Layout workspace settings and Change interface Colour](https://www.youtube.com/watch?v=8iYXPEzQrug)
 - [Eyedropper Tool in Photoshop Full Tutorial in Hindi](https://www.youtube.com/watch?v=HP360HlyoAg)
-- [Difference between Adobe Xd vs Figma in My Experience  | What a Beginner should choose](https://www.youtube.com/watch?v=ldxzJnKfA14)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
