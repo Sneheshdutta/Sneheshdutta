@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Color Sampler Tool in Photoshop How to use Color Sampler Tool](https://www.youtube.com/watch?v=XAeLYEorWK0)
 - [Photoshop All Crop Tools Explained Crop Tool perspective Tool Slice Tool Slice Selection Tool](https://www.youtube.com/watch?v=gPvniPMLEnE)
 - [Photoshop Marquee Selection Tools All Explained](https://www.youtube.com/watch?v=6DPSv8Xuz7Q)
 - [Photoshop Move Tool each and every properties Explained](https://www.youtube.com/watch?v=fE74Oo7bYCo)
 - [Photoshop Basic Layout workspace settings and Change interface Colour](https://www.youtube.com/watch?v=8iYXPEzQrug)
-- [Eyedropper Tool in Photoshop Full Tutorial in Hindi](https://www.youtube.com/watch?v=HP360HlyoAg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
