@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Count Tool and Note Tool in Photoshop How to use ?](https://www.youtube.com/watch?v=Hyn4XMhZW7o)
 - [Color Sampler Tool in Photoshop How to use Color Sampler Tool](https://www.youtube.com/watch?v=XAeLYEorWK0)
 - [Photoshop All Crop Tools Explained Crop Tool perspective Tool Slice Tool Slice Selection Tool](https://www.youtube.com/watch?v=gPvniPMLEnE)
 - [Photoshop Marquee Selection Tools All Explained](https://www.youtube.com/watch?v=6DPSv8Xuz7Q)
 - [Photoshop Move Tool each and every properties Explained](https://www.youtube.com/watch?v=fE74Oo7bYCo)
-- [Photoshop Basic Layout workspace settings and Change interface Colour](https://www.youtube.com/watch?v=8iYXPEzQrug)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
