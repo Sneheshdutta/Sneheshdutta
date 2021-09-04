@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Ruler Tool in Photoshop CC | Enable Ruler in Photoshop canvas](https://www.youtube.com/watch?v=e_s8EN_LIkQ)
 - [Frame Tool in Photoshop CC](https://www.youtube.com/watch?v=9cM8miPVGvs)
 - [Count Tool and Note Tool in Photoshop How to use ?](https://www.youtube.com/watch?v=Hyn4XMhZW7o)
 - [Color Sampler Tool in Photoshop How to use Color Sampler Tool](https://www.youtube.com/watch?v=XAeLYEorWK0)
 - [Photoshop All Crop Tools Explained Crop Tool perspective Tool Slice Tool Slice Selection Tool](https://www.youtube.com/watch?v=gPvniPMLEnE)
-- [Photoshop Marquee Selection Tools All Explained](https://www.youtube.com/watch?v=6DPSv8Xuz7Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
