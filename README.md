@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to use Patch Tool in Photoshop CC](https://www.youtube.com/watch?v=AEc2uutA6e4)
 - [Manike Mage Hithe Easy Piano Chords  #shorts #yohani Piano Cover](https://www.youtube.com/watch?v=cpoDPld3IFo)
 - [Healing Brush Tool and Spot Healing Brush Tool in Photoshop Hindi](https://www.youtube.com/watch?v=ny4Q3s0RZrY)
 - [Tygot Gorilla Tripod with Bluetooth Shutter  Unboxing and Review  | Good Holding Tripod for Vlogs.](https://www.youtube.com/watch?v=GQdrJdOwAV4)
 - [Ruler Tool in Photoshop CC | Enable Ruler in Photoshop canvas](https://www.youtube.com/watch?v=e_s8EN_LIkQ)
-- [Frame Tool in Photoshop CC](https://www.youtube.com/watch?v=9cM8miPVGvs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
