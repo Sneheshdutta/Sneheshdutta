@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Pencil Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=l3MDWuIB2oU)
 - [Brush Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=oUgijRthwLc)
 - [How to use Red Eye Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=v3Cu4petOII)
 - [Content Aware Move Tool in Photoshop Full tutorial in Hindi](https://www.youtube.com/watch?v=sqjwsYTFeME)
 - [How to use Patch Tool in Photoshop CC](https://www.youtube.com/watch?v=AEc2uutA6e4)
-- [Manike Mage Hithe Easy Piano Chords  #shorts #yohani Piano Cover](https://www.youtube.com/watch?v=cpoDPld3IFo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
