@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Clone Stamp Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=aRyuRFN3_Po)
 - [Pencil Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=l3MDWuIB2oU)
 - [Brush Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=oUgijRthwLc)
 - [How to use Red Eye Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=v3Cu4petOII)
 - [Content Aware Move Tool in Photoshop Full tutorial in Hindi](https://www.youtube.com/watch?v=sqjwsYTFeME)
-- [How to use Patch Tool in Photoshop CC](https://www.youtube.com/watch?v=AEc2uutA6e4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
