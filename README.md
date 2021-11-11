@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the reasons for the bad condition of the earth?](http://feedproxy.google.com/~r/Scikn/~3/Z1jij4Ckb28/what-are-reasons-for-bad-condition-of.html)
-- [Future scope of cybersecurity in the field of IOT](http://feedproxy.google.com/~r/Scikn/~3/2kHSB-WD6rI/future-scope-of-cybersecurity-in-field.html)
-- [Preparation of timetable for good eating habit](http://feedproxy.google.com/~r/Scikn/~3/j3BDLr7kdVg/preparation-of-timetable-for-eating.html)
-- [Areas influenced by Machine Learning](http://feedproxy.google.com/~r/Scikn/~3/JvGJY14tlsI/areas-influenced-by-machine-learning.html)
-- [5 websites to download PUBG mascot logos](http://feedproxy.google.com/~r/Scikn/~3/cMJ1tyT8pck/5-websites-to-download-pubg-mascot-logos.html)
+- [What are the reasons for the bad condition of the earth?](https://www.scikn.in/2021/08/what-are-reasons-for-bad-condition-of.html)
+- [Future scope of cybersecurity in the field of IOT](https://www.scikn.in/2021/04/future-scope-of-cybersecurity-in-field.html)
+- [Preparation of timetable for good eating habit](https://www.scikn.in/2021/04/preparation-of-timetable-for-eating.html)
+- [Areas influenced by Machine Learning](https://www.scikn.in/2021/03/areas-influenced-by-machine-learning.html)
+- [5 websites to download PUBG mascot logos](https://www.scikn.in/2021/03/5-websites-to-download-pubg-mascot-logos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
