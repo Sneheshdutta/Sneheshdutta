@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to use Pattern Stamp Tool in Photoshop Full Tutorial in Hindi](https://www.youtube.com/watch?v=I3aM2ejIdtw)
 - [Mixer Brush Tool in Photoshop Full Tutorial in Hindi](https://www.youtube.com/watch?v=nfCC8vjSa7Q)
 - [Color Replacement Tool in Photoshop in Hindi | Easy Photoshop Tutorials](https://www.youtube.com/watch?v=-uo0bPjdXEk)
 - [Clone Stamp Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=aRyuRFN3_Po)
 - [Pencil Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=l3MDWuIB2oU)
-- [Brush Tool in Photoshop in Hindi](https://www.youtube.com/watch?v=oUgijRthwLc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
