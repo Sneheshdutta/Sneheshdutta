@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [All Eraser Tools in Photoshop](https://www.youtube.com/watch?v=jJErWQpzqlg)
 - [Best Budget Apple Pencil Alternative for All iPads Under Rs 2000](https://www.youtube.com/watch?v=jemOa-a-yzc)
 - [Books I bought from Book Fair #shorts #youtubeshorts #education](https://www.youtube.com/watch?v=Qj0N9rDq9Rg)
 - [How to use Pattern Stamp Tool in Photoshop Full Tutorial in Hindi](https://www.youtube.com/watch?v=I3aM2ejIdtw)
 - [Mixer Brush Tool in Photoshop Full Tutorial in Hindi](https://www.youtube.com/watch?v=nfCC8vjSa7Q)
-- [Color Replacement Tool in Photoshop in Hindi | Easy Photoshop Tutorials](https://www.youtube.com/watch?v=-uo0bPjdXEk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
