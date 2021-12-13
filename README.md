@@ -25,7 +25,7 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
-- [How to import Multiple LUTs in Premiere Pro Import All LUTs file at once](https://www.youtube.com/watch?v=FP54HUSkQDA)
+- [Import LUT in Premiere Pro Import and install All LUTs file at once in Premiere Pro](https://www.youtube.com/watch?v=FP54HUSkQDA)
 - [All Eraser Tools in Photoshop](https://www.youtube.com/watch?v=jJErWQpzqlg)
 - [Best Budget Apple Pencil Alternative for All iPads Under Rs 2000](https://www.youtube.com/watch?v=jemOa-a-yzc)
 - [Books I bought from Book Fair #shorts #youtubeshorts #education](https://www.youtube.com/watch?v=Qj0N9rDq9Rg)
