@@ -25,7 +25,7 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
-- [First Payment from YouTube Received YouTube Earning Kitna mila ? How Much](https://www.youtube.com/watch?v=U4CWGsmtc78)
+- [My First Payment from YouTube Received ! My YouTube Earning Kitna mila ? How Much](https://www.youtube.com/watch?v=U4CWGsmtc78)
 - [Import LUT in Premiere Pro Import and install All LUTs file at once in Premiere Pro](https://www.youtube.com/watch?v=FP54HUSkQDA)
 - [All Eraser Tools in Photoshop](https://www.youtube.com/watch?v=jJErWQpzqlg)
 - [Best Budget Apple Pencil Alternative for All iPads Under Rs 2000](https://www.youtube.com/watch?v=jemOa-a-yzc)
