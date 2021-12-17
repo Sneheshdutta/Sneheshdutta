@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Premiere Pro is not showing TIMECODES in Timeline Only showing FRAMES How to get the timecode back ?](https://www.youtube.com/watch?v=kv6O0m9si5U)
 - [My First Payment from YouTube Received ! My YouTube Earning Kitna mila ? How Much](https://www.youtube.com/watch?v=U4CWGsmtc78)
 - [Import LUT in Premiere Pro Import and install All LUTs file at once in Premiere Pro](https://www.youtube.com/watch?v=FP54HUSkQDA)
 - [All Eraser Tools in Photoshop](https://www.youtube.com/watch?v=jJErWQpzqlg)
 - [Best Budget Apple Pencil Alternative for All iPads Under Rs 2000](https://www.youtube.com/watch?v=jemOa-a-yzc)
-- [Books I bought from Book Fair #shorts #youtubeshorts #education](https://www.youtube.com/watch?v=Qj0N9rDq9Rg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
