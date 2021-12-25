@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to Create Custom Shapes in Photoshop CC | All shape tools Rectangle Ellipse &amp; Triangle tool](https://www.youtube.com/watch?v=VZpky-85b7s)
 - [How to fix The importer reported a generic error in Premiere Pro CC](https://www.youtube.com/watch?v=EJ4KsD_-FQs)
 - [Premiere Pro is not showing TIMECODES in Timeline Only showing FRAMES How to get the timecode back ?](https://www.youtube.com/watch?v=kv6O0m9si5U)
 - [My First Payment from YouTube - first payment from youtube | my first youtube earning ✌️](https://www.youtube.com/watch?v=U4CWGsmtc78)
 - [How to Import LUT in Premiere Pro Import and install All LUTs file at once in Premiere Pro](https://www.youtube.com/watch?v=FP54HUSkQDA)
-- [All Eraser Tools in Photoshop](https://www.youtube.com/watch?v=jJErWQpzqlg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
