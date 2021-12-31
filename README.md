@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to use Type tools and Type mask tools in Adobe Photoshop - type mask tool in photoshop cc](https://www.youtube.com/watch?v=Ya1pmGgkZ2s)
 - [Gradient tool in Photoshop - How to use gradient tool in Photoshop 2021 | Gradient tool Photoshop](https://www.youtube.com/watch?v=AXhmRYDhOV0)
 - [How to Create Custom Shapes in Photoshop CC | All shape tools Rectangle Ellipse &amp; Triangle tool](https://www.youtube.com/watch?v=VZpky-85b7s)
 - [How to fix The importer reported a generic error in Premiere Pro CC](https://www.youtube.com/watch?v=EJ4KsD_-FQs)
 - [Premiere Pro is not showing TIMECODES in Timeline Only showing FRAMES How to get the timecode back ?](https://www.youtube.com/watch?v=kv6O0m9si5U)
-- [My First Payment from YouTube - first payment from youtube | my first youtube earning ✌️](https://www.youtube.com/watch?v=U4CWGsmtc78)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
