@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [PREMIERE PRO SPEED TEST HDD VS SSD](https://www.youtube.com/watch?v=5aUo4wDkjrc)
 - [Photoshop Opening Speed HDD vs SSD](https://www.youtube.com/watch?v=cb5ihVnVCKM)
 - [Best Photoshop for slow PC - 2 FREE Photoshop Alternatives on 2022!!](https://www.youtube.com/watch?v=GQtkdJ9Olnc)
 - [How to use Type tools and Type mask tools in Adobe Photoshop - type mask tool in photoshop cc](https://www.youtube.com/watch?v=Ya1pmGgkZ2s)
 - [Gradient tool in Photoshop - How to use gradient tool in Photoshop 2021 | Gradient tool Photoshop](https://www.youtube.com/watch?v=AXhmRYDhOV0)
-- [How to Create Custom Shapes in Photoshop CC | All shape tools Rectangle Ellipse &amp; Triangle tool](https://www.youtube.com/watch?v=VZpky-85b7s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
