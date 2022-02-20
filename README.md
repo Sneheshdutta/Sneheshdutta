@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Dodge Tool Burn Tool and Sponge Tool in Photoshop | How to use Dodge Burn and Sponge Tool](https://www.youtube.com/watch?v=SLMUcockS0w)
 - [How to use Blur and Sharpen Tool in Photoshop](https://www.youtube.com/watch?v=HO3JkRPYeTg)
 - [FILMORA SPEED TEST HDD VS SSD](https://www.youtube.com/watch?v=Sp81t7iLT50)
 - [PREMIERE PRO SPEED TEST HDD VS SSD](https://www.youtube.com/watch?v=5aUo4wDkjrc)
 - [Photoshop Opening Speed Test HDD vs SSD](https://www.youtube.com/watch?v=cb5ihVnVCKM)
-- [Best Photoshop for slow PC - 2 FREE Photoshop Alternatives on 2022!!](https://www.youtube.com/watch?v=GQtkdJ9Olnc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
