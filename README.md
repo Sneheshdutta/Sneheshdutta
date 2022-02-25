@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [BOYA BY-MM1 VS BOYA BY-M1 VS NIKON DSLR INTERNAL MIC Voice Quality Testing](https://www.youtube.com/watch?v=aKnqyzExv0A)
 - [Dodge Tool Burn Tool and Sponge Tool in Photoshop | How to use Dodge Burn and Sponge Tool](https://www.youtube.com/watch?v=SLMUcockS0w)
 - [How to use Blur and Sharpen Tool in Photoshop](https://www.youtube.com/watch?v=HO3JkRPYeTg)
 - [FILMORA SPEED TEST HDD VS SSD](https://www.youtube.com/watch?v=Sp81t7iLT50)
 - [PREMIERE PRO SPEED TEST HDD VS SSD](https://www.youtube.com/watch?v=5aUo4wDkjrc)
-- [Photoshop Opening Speed Test HDD vs SSD](https://www.youtube.com/watch?v=cb5ihVnVCKM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
