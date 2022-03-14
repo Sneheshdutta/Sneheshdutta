@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Art history brush Tool in photoshop](https://www.youtube.com/watch?v=o7Dw6oxlOcw)
 - [Path and Direct Selection Tool in Photoshop](https://www.youtube.com/watch?v=Zj-XACefNpI)
 - [Pen Tool and properties All Pen tool basics covered for beginners in photoshop](https://www.youtube.com/watch?v=1BQP_yjkGWk)
 - [Paint Bucket Tool in Photoshop](https://www.youtube.com/watch?v=MAWb9SyfeR0)
 - [BOYA BY-MM1 VS BOYA BY-M1 VS NIKON DSLR INTERNAL MIC Voice Quality Testing](https://www.youtube.com/watch?v=aKnqyzExv0A)
-- [Dodge Tool Burn Tool and Sponge Tool in Photoshop | How to use Dodge Burn and Sponge Tool](https://www.youtube.com/watch?v=SLMUcockS0w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
