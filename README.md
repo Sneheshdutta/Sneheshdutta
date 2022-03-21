@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Quick Action in Photoshop Part 1](https://www.youtube.com/watch?v=OwKbylNDQF0)
 - [Smudge Tool in Photoshop | How to use Smudge Tool](https://www.youtube.com/watch?v=d5cLzycEMy8)
 - [Art history brush Tool in photoshop](https://www.youtube.com/watch?v=o7Dw6oxlOcw)
 - [Path and Direct Selection Tool in Photoshop](https://www.youtube.com/watch?v=Zj-XACefNpI)
 - [Pen Tool and properties All Pen tool basics covered for beginners in photoshop](https://www.youtube.com/watch?v=1BQP_yjkGWk)
-- [Paint Bucket Tool in Photoshop](https://www.youtube.com/watch?v=MAWb9SyfeR0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
