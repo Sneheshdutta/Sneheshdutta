@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Conflict Management](https://www.scikn.in/2020/08/what-is-conflict-management.html)
 - [What are the reasons for the bad condition of the earth?](https://www.scikn.in/2021/08/what-are-reasons-for-bad-condition-of.html)
 - [Future scope of cybersecurity in the field of IOT](https://www.scikn.in/2021/04/future-scope-of-cybersecurity-in-field.html)
 - [Preparation of timetable for good eating habit](https://www.scikn.in/2021/04/preparation-of-timetable-for-eating.html)
 - [Areas influenced by Machine Learning](https://www.scikn.in/2021/03/areas-influenced-by-machine-learning.html)
-- [5 websites to download PUBG mascot logos](https://www.scikn.in/2021/03/5-websites-to-download-pubg-mascot-logos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
