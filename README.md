@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to create a simple YouTube Logo for your YouTube Channel | Easy &amp; Simple YouTubers Pack #Part1](https://www.youtube.com/watch?v=RSF-ozCTFec)
 - [POPIO Tempered Glass for DSLR Camera | Cheap DSLR Screen Guard Protector and Glass Guard](https://www.youtube.com/watch?v=9beofcjfAvE)
 - [Quick Action in Photoshop Part 1](https://www.youtube.com/watch?v=OwKbylNDQF0)
 - [Smudge Tool in Photoshop | How to use Smudge Tool](https://www.youtube.com/watch?v=d5cLzycEMy8)
 - [Art history brush Tool in photoshop](https://www.youtube.com/watch?v=o7Dw6oxlOcw)
-- [Path and Direct Selection Tool in Photoshop](https://www.youtube.com/watch?v=Zj-XACefNpI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
