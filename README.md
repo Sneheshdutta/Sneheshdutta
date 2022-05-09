@@ -25,8 +25,8 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
-- [How to make  Intro for YouTube with Wondershare Filmora Youtuber&#39;s pack Creation](https://www.youtube.com/watch?v=ls7ug4r5h9s)
-- [How to make YouTube Channel Art Very Simple and Easy](https://www.youtube.com/watch?v=sJgStI54biY)
+- [How to make  Intro for YouTube with Wondershare Filmora Youtuber&#39;s pack Creation #Part3](https://www.youtube.com/watch?v=ls7ug4r5h9s)
+- [How to make YouTube Channel Art Very Simple and Easy YouTubers Pack #Part2](https://www.youtube.com/watch?v=sJgStI54biY)
 - [How to create a simple YouTube Logo for your YouTube Channel | Easy &amp; Simple YouTubers Pack #Part1](https://www.youtube.com/watch?v=RSF-ozCTFec)
 - [POPIO Tempered Glass for DSLR Camera | Cheap DSLR Screen Guard Protector and Glass Guard](https://www.youtube.com/watch?v=9beofcjfAvE)
 - [Quick Action in Photoshop Part 1](https://www.youtube.com/watch?v=OwKbylNDQF0)
