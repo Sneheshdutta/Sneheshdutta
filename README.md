@@ -27,7 +27,7 @@
 <!-- YOUTUBE:START -->
 - [How to create Facebook Cover Picture in Canva Youtuber&#39;s Pack #Part5](https://www.youtube.com/watch?v=Zn6pCTGPGzo)
 - [How to use lower thirds from Wondershare Filmora Youtuber&#39;s pack Creation #Part4](https://www.youtube.com/watch?v=rArqV_QelNw)
-- [How to make  Intro for YouTube with Wondershare Filmora Youtuber&#39;s pack Creation #Part3](https://www.youtube.com/watch?v=ls7ug4r5h9s)
+- [how to make intro for youtube videos with Wondershare Filmora Youtuber&#39;s pack Creation #Part3](https://www.youtube.com/watch?v=ls7ug4r5h9s)
 - [How to make YouTube Channel Art Very Simple and Easy YouTubers Pack #Part2](https://www.youtube.com/watch?v=sJgStI54biY)
 - [How to create a simple YouTube Logo for your YouTube Channel | Easy &amp; Simple YouTubers Pack #Part1](https://www.youtube.com/watch?v=RSF-ozCTFec)
 <!-- YOUTUBE:END -->
