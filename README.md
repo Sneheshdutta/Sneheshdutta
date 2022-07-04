@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [MC DC2 Nikon Remote Shutter Unboxing and Quick Review](https://www.youtube.com/watch?v=mt_xjiIxQJg)
 - [How to Create YouTube&#39;s Graphics Pack for Beginner with Logo Channel Art Intro Outro Lower Thirds](https://www.youtube.com/watch?v=3TbcsMN5QHI)
 - [How to create thumbnail for YouTube videos by drag and drop youtuber&#39;s pack creation #Part7](https://www.youtube.com/watch?v=J6pgwkg4doY)
 - [How to make Outro for YouTube youtuber&#39;s pack creation #Part6](https://www.youtube.com/watch?v=BIdaKBVqagE)
 - [How to create Facebook Cover Picture in Canva Youtuber&#39;s Pack #Part5](https://www.youtube.com/watch?v=Zn6pCTGPGzo)
-- [How to use lower thirds from Wondershare Filmora Youtuber&#39;s pack Creation #Part4](https://www.youtube.com/watch?v=rArqV_QelNw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
