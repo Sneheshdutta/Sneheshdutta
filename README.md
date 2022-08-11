@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts from www.scikn.in
 
 <!-- BLOG-POST-LIST:START -->
+- [iPad Air 2022 Wallpaper for Mi Pad 5](https://www.scikn.in/2022/08/ipad-air-2022-wallpaper-for-mi-pad-5.html)
 - [GCAM for Xiaomi Pad 5 and Xiaomi Pad 5 Pro Full Stable version](https://www.scikn.in/2022/07/GCAM-for-Xiaomi-Pad-5.html)
 - [Write a letter to the Electric Office to Change the Meter Box&#39;s Cable](https://www.scikn.in/2022/05/letter-to-Change-the-Meter-Box-Cable.html)
 - [What are the vulnerabilities for cutting edge technologies](https://www.scikn.in/2022/04/vulnerabilities-for-cutting-edge-technologies.html)
 - [What is Conflict Management](https://www.scikn.in/2020/08/what-is-conflict-management.html)
-- [What are the reasons for the bad condition of the earth?](https://www.scikn.in/2021/08/what-are-reasons-for-bad-condition-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.scikn.in)
