@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Happy 75th Independence Day](https://www.youtube.com/watch?v=SyfKZJgGjF8)
 - [XIAOMI Pad 5 Unboxing and Review](https://www.youtube.com/watch?v=41JtMWXPg7I)
 - [Fujifilm NP W126 Battery Best Alternative in Amazon Fujifilm XT200 Duplicate Battery Replacement](https://www.youtube.com/watch?v=R_5svQN3IrY)
 - [MC DC2 Nikon Remote Shutter Unboxing and Quick Review](https://www.youtube.com/watch?v=mt_xjiIxQJg)
 - [How to Create YouTube&#39;s Graphics Pack for Beginner with Logo Channel Art Intro Outro Lower Thirds](https://www.youtube.com/watch?v=3TbcsMN5QHI)
-- [How to create thumbnail for YouTube videos by drag and drop youtuber&#39;s pack creation #Part7](https://www.youtube.com/watch?v=J6pgwkg4doY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
