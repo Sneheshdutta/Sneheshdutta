@@ -25,7 +25,7 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
-- [How to fix Focus Hunting in Nikon DSLR | MC DC2 Nikon Remote Shutter Full Review](https://www.youtube.com/watch?v=66jPsK7wMnU)
+- [How to Fix Focus Hunting in Nikon DSLR | MC DC2 Nikon Remote Shutter Full Review](https://www.youtube.com/watch?v=66jPsK7wMnU)
 - [Happy 75th Independence Day](https://www.youtube.com/watch?v=SyfKZJgGjF8)
 - [XIAOMI Pad 5 Unboxing and Review](https://www.youtube.com/watch?v=41JtMWXPg7I)
 - [Fujifilm NP W126 Battery Best Alternative in Amazon Fujifilm XT200 Duplicate Battery Replacement](https://www.youtube.com/watch?v=R_5svQN3IrY)
