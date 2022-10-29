@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to Remove Background Noise using Premiere Pro](https://www.youtube.com/watch?v=v362tTyzpIY)
 - [How to Remove Background Noise Using Adobe Audition](https://www.youtube.com/watch?v=RmwIEr4fuqk)
 - [How to Fix Focus Hunting in Nikon DSLR | MC DC2 Nikon Remote Shutter Full Review](https://www.youtube.com/watch?v=66jPsK7wMnU)
 - [Happy 75th Independence Day](https://www.youtube.com/watch?v=SyfKZJgGjF8)
 - [XIAOMI Pad 5 Unboxing and Review](https://www.youtube.com/watch?v=41JtMWXPg7I)
-- [Fujifilm NP W126 Battery Best Alternative in Amazon Fujifilm XT200 Duplicate Battery Replacement](https://www.youtube.com/watch?v=R_5svQN3IrY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
