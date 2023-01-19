@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [DSLR UV Filter Unboxing and Review 150 Rs UV Filter from Online worth it or not?](https://www.youtube.com/watch?v=nvCBk6kyEME)
 - [Content Aware Scale is Grayed in Photoshop Content Aware Scale not Working How to use content aware](https://www.youtube.com/watch?v=ZOG6H905hIs)
 - [Nikon EN EL14A Replacement Battery for Nikon DSLRs Full Review](https://www.youtube.com/watch?v=SkqmWXIbJCw)
 - [How to Remove Background Noise using Premiere Pro](https://www.youtube.com/watch?v=v362tTyzpIY)
 - [How to Remove Background Noise Using Adobe Audition](https://www.youtube.com/watch?v=RmwIEr4fuqk)
-- [How to Fix Focus Hunting in Nikon DSLR | MC DC2 Nikon Remote Shutter Full Review](https://www.youtube.com/watch?v=66jPsK7wMnU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
