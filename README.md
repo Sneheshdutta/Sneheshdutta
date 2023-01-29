@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Replace Subject in Photoshop Within the same Background](https://www.youtube.com/watch?v=xA2sXyTSw2c)
 - [How to Export Videos in Premiere Pro  for YouTube with Best Video Quality and less Processing Time](https://www.youtube.com/watch?v=k52zIlIIdok)
 - [Content Aware Scale is Grayed in Photoshop Content Aware Scale not Working How to use content aware](https://www.youtube.com/watch?v=ZOG6H905hIs)
 - [Nikon EN EL14A Replacement Battery for Nikon DSLRs Full Review](https://www.youtube.com/watch?v=SkqmWXIbJCw)
 - [How to Remove Background Noise using Premiere Pro](https://www.youtube.com/watch?v=v362tTyzpIY)
-- [How to Remove Background Noise Using Adobe Audition](https://www.youtube.com/watch?v=RmwIEr4fuqk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
