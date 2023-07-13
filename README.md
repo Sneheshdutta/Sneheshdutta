@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Fujifilm XT 200 All Focus Modes Explained How to Change  Focus Modes in Fujifilm Mirrorless Camera](https://www.youtube.com/watch?v=E8jk7sHNMIY)
 - [Lenskart Spectacle Unboxing](https://www.youtube.com/watch?v=kSrm5dg075M)
 - [14000 Rs Lenskart Chasma Unboxing with Tokai Lutina Coating](https://www.youtube.com/watch?v=sO_PlHw5U6w)
 - [Fujifilm sensor cleaning Process Just in 1 min](https://www.youtube.com/watch?v=fSovvmzykrg)
 - [How to Clean your Mirrorless Camera Fujifilm XT200 Cleaning and Maintenance at Home](https://www.youtube.com/watch?v=SX25P1y4yMk)
-- [How to Clean your DSLR Camera DSLR Cleaning and Maintenance at Home](https://www.youtube.com/watch?v=v7oHruF5XRQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
