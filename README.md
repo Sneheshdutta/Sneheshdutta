@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [How to Fix Photoshop Not Opening After Double Click](https://www.youtube.com/watch?v=Ck3s0mSFkLE)
 - [How to Fix Fujifilm Mic not Working](https://www.youtube.com/watch?v=O9tQAVgSVfI)
 - [Fujifilm XT 200 All Focus Modes Explained How to Change  Focus Modes in Fujifilm Mirrorless Camera](https://www.youtube.com/watch?v=E8jk7sHNMIY)
 - [Lenskart Spectacle Unboxing](https://www.youtube.com/watch?v=kSrm5dg075M)
 - [14000 Rs Lenskart Chasma Unboxing with Tokai Lutina Coating](https://www.youtube.com/watch?v=sO_PlHw5U6w)
-- [Fujifilm sensor cleaning Process Just in 1 min](https://www.youtube.com/watch?v=fSovvmzykrg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
