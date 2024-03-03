@@ -25,11 +25,11 @@
 ### 📺 Latest Photoshop Youtube Videos 
 
 <!-- YOUTUBE:START -->
+- [Enable Over Scroll in Photoshop](https://www.youtube.com/watch?v=LivMMa5n6JA)
 - [Unboxing  IZI Go X Smartphone Gimble Best Budget Smartphone Gimble Review](https://www.youtube.com/watch?v=1nOkP2oevKg)
 - [How to Fix Photoshop Not Opening After Double Click](https://www.youtube.com/watch?v=Ck3s0mSFkLE)
 - [How to Fix Fujifilm Mic not Working](https://www.youtube.com/watch?v=O9tQAVgSVfI)
 - [Fujifilm XT 200 All Focus Modes Explained How to Change  Focus Modes in Fujifilm Mirrorless Camera](https://www.youtube.com/watch?v=E8jk7sHNMIY)
-- [Lenskart Spectacle Unboxing](https://www.youtube.com/watch?v=kSrm5dg075M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/duttastudio)
